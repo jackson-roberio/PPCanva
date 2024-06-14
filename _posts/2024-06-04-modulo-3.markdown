@@ -5,8 +5,5 @@ modal-id: 3
 date: 2024-06-10
 img: modulo-3.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Esse módulo ajudará os participantes do curso a se tornarem proficientes no uso do Canva para criar materiais didáticos visualmente atraentes, funcionais e eficazes, melhorando assim a experiência de ensino e aprendizagem. <hr /> <b>Design de Apresentações e Slides Interativos</b> <br/> Aprenda a criar materiais visuais envolventes, informativos e eficazes para comunicação em diversos contextos. <br/><br/> <iframe width="560" height="315" src="https://www.youtube.com/embed/NxyMqGd64p8?si=aGlsw5mVYnz2kRCB" frameborder="0" allowfullscreen></iframe> <hr /> <b>Criação de Fichas de Atividades e Exercícios</b> <br/>Aprenda como planejar e criar atividades personalizadas, utilizando as funcionalidades e ferramentas do Canva. <br/><br/> <iframe width="560" height="315" src="https://www.youtube.com/embed/Js-SSftUG40?si=9SbKss9ZCESV7NED" frameborder="0" allowfullscreen></iframe> <hr /> <b>Elaboração de Infográficos para Visualização de Dados.</b> <br/> Crie infográficos para trabalhar seus conteúdos de forma dinâmica! <br/><br/> <iframe width="560" height="315" src="https://www.youtube.com/embed/0gYuBkTpEtY?si=E4zJacejehOzgaVV" frameborder="0" allowfullscreen></iframe>
 ---

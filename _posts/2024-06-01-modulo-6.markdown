@@ -5,8 +5,6 @@ modal-id: 6
 date: 2024-06-10
 img: modulo-6.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nama. <br /> <a href=#>treta2a</a> 
+description: Para garantir uma avaliação abrangente e significativa do seu progresso, adotamos dois diferentes instrumentos - a autoavaliação e a avaliação por pares no fórum. A autoavaliação permitirá que você reflita sobre suas próprias conquistas e dificuldades. <br/><br/> Além disso, a avaliação por pares no fórum oferecerá uma oportunidade valiosa para troca de feedback entre colegas. Ao compartilhar seus projetos e ideias com os outros participantes, você não apenas contribuirá para o crescimento da comunidade, mas também receberá insights valiosos sob diferentes olhares. <hr /> <a href="https://docs.google.com/forms/d/e/1FAIpQLSdTcaM0aRHCsKGiaSgnLk-sWmEqWnhPoEv7u64gJDwFXpxM3Q/viewform" target="_blank">Realizar Autoavaliação</a> <br/><br/> <a href="https://github.com/jackson-roberio/PPCanva/issues/new" target="_blank">Realizar Avaliação em Pares</a>
+
 ---
