@@ -5,8 +5,5 @@ modal-id: 5
 date: 2024-06-10
 img: modulo-5.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Neste módulo você aprenderá a como trabalhar colaborativamente com o Canva e compartilhar suas criações em arquivos de PDF, PNG e outros. Aqui você encontrará vídeos que te ensinam o passo a passo para compartilhar os seus arquivos do canva de forma segura e eficiente; como criar atividades colaborativas com seus alunos; como exportar os seus arquivos em PDF, PNG e outros e por fim, como criar um QR CODE para inovar nas suas aulas. É importante que ao final de cada vídeo você teste os seus colocando em prática as orientações fornecidas. <hr /> <p>Compartilhar projetos no Canva - Compartilhamento de projetos com alunos e colegas</p> <iframe width="560" height="315" src="https://www.youtube.com/embed/fL8Bh9xgnpw?si=yOS0EtJtauA_unoS" frameborder="0" allowfullscreen></iframe> <hr /> <p><b>Colaborar em  projetos no Canva Edição colaborativa de materiais.</b></p> <br /> <iframe width="560" height="315" src="https://www.youtube.com/embed/YgBi24aTvZM?si=AMmgEv63X0UgdUeq" frameborder="0" allowfullscreen></iframe> <hr /> <p>Exportar  projetos no Canva Exportação de arquivos em diferentes formatos (PDF, PNG, etc.). </p> <a href="#">Instrução de Exportar Arquivo Canva.pdf</a> <hr /> <b>Bônus do módulo</b><br /><br /> <iframe width="560" height="315" src="https://www.youtube.com/embed/5A4a4UNJ6xg?si=MdnzO-VIM-PRY92Y" frameborder="0" allowfullscreen></iframe>
 ---

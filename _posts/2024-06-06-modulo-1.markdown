@@ -5,8 +5,5 @@ modal-id: 1
 date: 2024-06-10
 img: modulo-1.png
 alt: Módulo 1
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description:   <p> Conheça o curso Prática Pedagógica com o Canva. </p> <b>No PDF abaixo você verá</b> <br /> - Boas Vindas <br /> - Objetivo do curso <br /> - Estrutura do curso <br /> - Por que participar? <br /> - Publico alvo <br /><br />  <a href="downloads/modulo-1-boas-vindas.pdf" download>Boas vindas.pdf</a> <hr /> Deseja saber mais sobre a plataforma, conhecer os seus recursos e também as suas principais vantagens? Então, continue conosco e acompanhe este conteúdo até o final! <br /><br /> <a href="downloads/modulo-1-introducao-e-cadastro.pdf" download>Introdução e Cadastro.pdf</a> <hr />  <iframe width="560" height="315" src="https://www.youtube.com/embed/cRmF76kfP0k?si=Bqijq3cRbzMDqWQF" frameborder="0" allowfullscreen></iframe>
 ---
