@@ -3,7 +3,7 @@ layout: default
 modulo: true
 modal-id: 3
 date: 2024-06-10
-img: modulo-3.png
+img: modulo-3-new.png
 alt: Módulo 3
 description: Esse módulo ajudará os participantes do curso a se tornarem proficientes no uso do Canva para criar materiais didáticos visualmente atraentes, funcionais e eficazes, melhorando assim a experiência de ensino e aprendizagem. <hr /> <b>Design de Apresentações e Slides Interativos</b> <br/> Aprenda a criar materiais visuais envolventes, informativos e eficazes para comunicação em diversos contextos. <br/><br/> <iframe width="560" height="315" src="https://www.youtube.com/embed/NxyMqGd64p8?si=aGlsw5mVYnz2kRCB" frameborder="0" allowfullscreen></iframe> <hr /> <b>Criação de Fichas de Atividades e Exercícios</b> <br/>Aprenda como planejar e criar atividades personalizadas, utilizando as funcionalidades e ferramentas do Canva. <br/><br/> <iframe width="560" height="315" src="https://www.youtube.com/embed/Js-SSftUG40?si=9SbKss9ZCESV7NED" frameborder="0" allowfullscreen></iframe> <hr /> <b>Elaboração de Infográficos para Visualização de Dados.</b> <br/> Crie infográficos para trabalhar seus conteúdos de forma dinâmica! <br/><br/> <iframe width="560" height="315" src="https://www.youtube.com/embed/0gYuBkTpEtY?si=E4zJacejehOzgaVV" frameborder="0" allowfullscreen></iframe>
 ---
