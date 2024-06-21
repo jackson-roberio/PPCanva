@@ -5,5 +5,5 @@ modal-id: 4
 date: 2024-06-10
 img: modulo-4-new.png
 alt: Módulo 4
-description: <p>Neste módulo,  você verá a importância de usar o Canva para preparar aulas dinâmicas e torná-las mais atrativas aos alunos.</p> <a href="downloads/a-importância-de-aulas-dinâmicas-no-canva.pdf" class="btn btn-success btn-lg" download> <i class="fa fa-download"></i> A Importância de Aulas Dinâmicas no Canva.pdf</a>
+description: <p>Neste módulo,  você verá a importância de usar o Canva para preparar aulas dinâmicas e torná-las mais atrativas aos alunos.</p> <a href="downloads/modulo-4-a-importância-de-aulas-dinâmicas-no-canva.pdf" class="btn btn-success btn-lg" download> <i class="fa fa-download"></i> A Importância de Aulas Dinâmicas no Canva.pdf</a>
 ---
